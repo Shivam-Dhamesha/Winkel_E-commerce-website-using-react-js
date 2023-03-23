@@ -37,7 +37,7 @@ Start the server
 
 
 
-Various shades of this color had been used primarly while degning this.
+This color was primarily used in various shades during the design process.
 ## Screenshots and video
 
 Here is the link to Screenshots and video of the project.
